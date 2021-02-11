@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "快进",
+    "texture": "bde07ef2-9b13-4b68-82ed-9d03750be649",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1197,
+      687
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1197,
+      687
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

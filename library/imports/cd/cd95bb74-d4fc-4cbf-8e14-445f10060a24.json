@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mql开心",
+    "texture": "b375ffda-475d-4f9c-8034-4735e08d372a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

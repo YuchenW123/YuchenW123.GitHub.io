@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "墙纸背景",
+    "texture": "682ea931-82a5-43f8-9968-d544bba6e558",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      790,
+      323
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      790,
+      323
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

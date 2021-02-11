@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "气球横幅",
+    "texture": "7786e14f-0b66-4237-970d-d0e138cee1b2",
+    "atlas": "",
+    "rect": [
+      0,
+      208,
+      1192,
+      619
+    ],
+    "offset": [
+      -4,
+      82.5
+    ],
+    "originalSize": [
+      1200,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

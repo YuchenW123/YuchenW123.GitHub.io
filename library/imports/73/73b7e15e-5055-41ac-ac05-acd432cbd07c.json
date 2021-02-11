@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "绿色胶带",
+    "texture": "e365a802-3408-4148-937e-38fb2419b86c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      545,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      545,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

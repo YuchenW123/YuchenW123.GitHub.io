@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "思想泡泡",
+    "texture": "142571a1-daa9-4565-9625-ba6313334e11",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4736,
+      3266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4736,
+      3266
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
